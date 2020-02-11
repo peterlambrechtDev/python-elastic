@@ -1,0 +1,6 @@
+remoteHost = 'http://els-us2d-mstr-2a.adminsys.mrll.com:9200'
+remoteUser=''
+remotePass=''
+destHost = 'https://elasticsearch.brian-test.sandbox-kube.k8s.mrll.com'
+destUser=''
+destPass=''
